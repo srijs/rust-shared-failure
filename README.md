@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/srijs/rust-shared-failure.svg?branch=master)](https://travis-ci.org/srijs/rust-shared-failure)
 [![Dependency Status](https://deps.rs/repo/github/srijs/rust-shared-failure/status.svg)](https://deps.rs/repo/github/srijs/rust-shared-failure)
+[![crates.io](https://img.shields.io/crates/v/shared_failure.svg)](https://crates.io/crates/shared_failure)
 
 This crate aims to provide a convenient and lightweight way
 to clone errors and share them across thread-boundaries.
