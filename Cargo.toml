@@ -2,6 +2,10 @@
 name = "shared_failure"
 version = "0.1.0"
 authors = ["Sam Rijs <srijs@airpost.net>"]
+description = "Clone and share errors across thread boundaries"
+repository = "https://github.com/srijs/rust-shared-failure"
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
 failure = "0.1.1"
